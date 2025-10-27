@@ -180,8 +180,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/anshulbhardwaj123)
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshulbhardwaj1/))
+- GitHub: [@AnshulBhardwaj](https://github.com/anshulbhardwaj123)
+- LinkedIn: [AnshulBhardwaj]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshulbhardwaj1/))
 - Email: anshul123.124@gmail.com
 
 ## 🙏 Acknowledgments
